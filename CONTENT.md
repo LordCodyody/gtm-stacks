@@ -98,7 +98,7 @@ Every piece of user-facing copy on the landing page, in page order. Edit here, t
 
 **Cards:**
 
-1. **Early-stage startups:** Post-funding or post-first-customer. You're closing the personal-Gmail-and-shared-Drive era before it bites you on the first audit.
+1. **Early-stage startups:** Post-funding or post-first-customer. You're closing the era of personal inboxes and shared drives before it bites you on the first audit.
 2. **Spinouts & carve-outs:** Leaving a parent company's IT with a hard date to be on your own infrastructure. No runway for tool bake-offs.
 3. **Remote-first SMBs:** Established teams without an internal IT function. Every new laptop needs to land in a consistent, secure state on day one. Anywhere.
 
