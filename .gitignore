@@ -1,0 +1,5 @@
+# scratch / local-only files
+_*.mjs
+.DS_Store
+*.log
+node_modules/
