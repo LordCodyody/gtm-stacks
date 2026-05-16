@@ -23,7 +23,7 @@ Every piece of user-facing copy on the landing page, in page order. Edit here, t
 ## Header / Navigation
 
 - Brand wordmark: **GTM Stacks**
-- Nav links: Problem · What you get · Approach · Voices · Process · FAQ
+- Nav links: Problem · What you get · Stack · Approach · Voices · Process · FAQ
 - Header CTA button: **Book a call**
 
 ---
@@ -73,6 +73,28 @@ Every piece of user-facing copy on the landing page, in page order. Edit here, t
 6. **Base security policies:** A policy set written from the controls and systems we deploy, sized to your compliance scope. Not pulled off a generic template shelf.
 7. **CRM foundation:** A customer system that grows with you, from first deal to revenue operations.
 8. **Outbound lead generation:** Automated multi-channel outreach that puts your offer in front of the right buyers, without a full-time SDR.
+
+---
+
+## What's in the stack (`#stack`)
+
+- **Kicker:** What's in the stack
+- **Heading:** Real products. Configured to act as one.
+- **Sub:** Most engagements start from this foundation. Substitutions where your business requires them; modifications from the defaults can weaken interconnection.
+
+**Logo wall (white silhouettes on the dark theme):**
+
+- Microsoft
+- Microsoft 365 (Office)
+- Microsoft Teams
+- KnowBe4
+- HubSpot
+- Salesforce
+- Zoho
+- Zapier
+- n8n
+
+**Caption below the wall:** Identity, devices, collaboration, and compliance on the Microsoft cloud (Entra, Intune, Outlook, Teams, OneDrive/SharePoint, Defender, Purview, Copilot). Security awareness on KnowBe4. CRM on HubSpot, Salesforce, Zoho, or self-hosted Twenty. Workflows on Zapier, n8n, or Power Automate.
 
 ---
 
