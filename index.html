@@ -16,10 +16,55 @@
   <meta name="twitter:card" content="summary_large_image" />
 
   <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png" />
+
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="style.css" />
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "ProfessionalService",
+        "@id": "https://lordcodyody.github.io/gtm-stacks/#business",
+        "name": "GTM Stacks",
+        "url": "https://lordcodyody.github.io/gtm-stacks/",
+        "description": "A connected, automated, secure tech stack delivered on day one — built to scale into compliance without re-platforming later. Fixed-scope foundation engagement for startups, spinouts, and remote-first teams.",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Greenville",
+          "addressRegion": "SC",
+          "addressCountry": "US"
+        },
+        "areaServed": "US",
+        "parentOrganization": {
+          "@type": "Organization",
+          "name": "Greenville IT Consulting LLC",
+          "url": "https://www.greenvilleitconsulting.com"
+        },
+        "founder": { "@id": "https://lordcodyody.github.io/gtm-stacks/#cody" },
+        "serviceType": ["IT Consulting", "Cybersecurity", "Identity Management", "Device Management", "SOC 2 Readiness", "Compliance Engineering"]
+      },
+      {
+        "@type": "Person",
+        "@id": "https://lordcodyody.github.io/gtm-stacks/#cody",
+        "name": "Cody Jeziorski",
+        "jobTitle": "CISSP-credentialed IT Consultant",
+        "worksFor": { "@id": "https://lordcodyody.github.io/gtm-stacks/#business" },
+        "sameAs": ["https://www.linkedin.com/in/codyjeziorski/"],
+        "hasCredential": {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "certification",
+          "name": "Certified Information Systems Security Professional (CISSP)"
+        }
+      }
+    ]
+  }
+  </script>
 
   <!-- Analytics placeholder: replace with your Plausible or GA snippet
   <script defer data-domain="YOUR-DOMAIN-HERE" src="https://plausible.io/js/script.js"></script>
@@ -46,15 +91,24 @@
         <span>GTM Stacks</span>
       </a>
 
-      <nav class="nav-links" aria-label="Primary">
+      <nav class="nav-links" id="nav-links" aria-label="Primary">
         <a href="#problem">Problem</a>
         <a href="#outcome">What you get</a>
         <a href="#approach">Approach</a>
+        <a href="#voices">Voices</a>
         <a href="#process">Process</a>
         <a href="#faq">FAQ</a>
       </nav>
 
       <a href="https://cal.com/codyjeziorski/30min" class="btn btn-primary btn-sm" target="_blank" rel="noopener noreferrer">Book a call</a>
+
+      <button class="nav-toggle" type="button" aria-label="Toggle menu" aria-controls="nav-links" aria-expanded="false">
+        <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <line x1="3" y1="6"  x2="21" y2="6" />
+          <line x1="3" y1="12" x2="21" y2="12" />
+          <line x1="3" y1="18" x2="21" y2="18" />
+        </svg>
+      </button>
     </div>
   </header>
 
@@ -225,15 +279,15 @@
         <div class="grid grid-3">
           <article class="card card-bordered">
             <h3>Early-stage startups</h3>
-            <p>5–50 employees, post-funding or post-first-customer, ready to stop running on personal Gmail and shared docs.</p>
+            <p>Post-funding or post-first-customer. You're closing the personal-Gmail-and-shared-Drive era before it bites you on the first audit.</p>
           </article>
           <article class="card card-bordered">
             <h3>Spinouts &amp; carve-outs</h3>
-            <p>New independent businesses leaving a parent company's IT — with a hard date to be on their own infrastructure.</p>
+            <p>Leaving a parent company's IT with a hard date to be on your own infrastructure — no runway for tool bake-offs.</p>
           </article>
           <article class="card card-bordered">
             <h3>Remote-first SMBs</h3>
-            <p>Distributed teams without an internal IT function, where every laptop and login needs to work the same way everywhere.</p>
+            <p>Established teams without an internal IT function. Every new laptop needs to land in a consistent, secure state on day one — anywhere.</p>
           </article>
         </div>
 
@@ -308,8 +362,44 @@
       </div>
     </section>
 
+    <!-- TESTIMONIALS -->
+    <section class="section" id="voices">
+      <div class="container">
+        <div class="section-head">
+          <span class="kicker">In their words</span>
+          <h2>Voices from the work.</h2>
+        </div>
+
+        <div class="grid grid-2 testimonials">
+          <figure class="testimonial">
+            <svg class="quote-mark" aria-hidden="true" viewBox="0 0 32 32" fill="currentColor">
+              <path d="M10 9c-3.5 0-6 3-6 7v8h8v-8H7c0-3 1.5-5 3-5V9zm14 0c-3.5 0-6 3-6 7v8h8v-8h-5c0-3 1.5-5 3-5V9z"/>
+            </svg>
+            <blockquote>
+              Cody provides exceptional service, insight and expertise. His attention to detail, ability to pivot, and knowledge of trends, threats, changes and challenges proved pivotal in security projects and strategies.
+            </blockquote>
+            <figcaption>
+              <img src="assets/clients/rightpath.svg" alt="RightPath Benefits" class="client-logo" loading="lazy" />
+            </figcaption>
+          </figure>
+
+          <figure class="testimonial">
+            <svg class="quote-mark" aria-hidden="true" viewBox="0 0 32 32" fill="currentColor">
+              <path d="M10 9c-3.5 0-6 3-6 7v8h8v-8H7c0-3 1.5-5 3-5V9zm14 0c-3.5 0-6 3-6 7v8h8v-8h-5c0-3 1.5-5 3-5V9z"/>
+            </svg>
+            <blockquote>
+              1000% recommend. Cody &amp; Greenville IT Consulting truly care about you &amp; your success. Phenomenal service.
+            </blockquote>
+            <figcaption>
+              <span class="anon">Verified client</span>
+            </figcaption>
+          </figure>
+        </div>
+      </div>
+    </section>
+
     <!-- FAQ -->
-    <section class="section" id="faq">
+    <section class="section section-alt" id="faq">
       <div class="container">
         <div class="section-head">
           <span class="kicker">FAQ</span>

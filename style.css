@@ -233,6 +233,93 @@ a.eyebrow:hover {
   border-color: rgba(163,235,177,0.4);
   background: rgba(24,165,88,0.14);
 }
+
+/* ---------- Testimonials ---------- */
+.testimonials { gap: 24px; }
+.testimonial {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 32px;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  transition: border-color .2s ease;
+}
+.testimonial:hover { border-color: var(--border-strong); }
+.quote-mark {
+  width: 28px; height: 28px;
+  color: var(--green-500);
+  opacity: 0.55;
+}
+.testimonial blockquote {
+  margin: 0;
+  font-size: 1.075rem;
+  line-height: 1.55;
+  color: var(--text);
+  flex-grow: 1;
+}
+.testimonial figcaption {
+  display: flex;
+  align-items: center;
+  padding-top: 18px;
+  border-top: 1px solid var(--border);
+  min-height: 50px;
+}
+.client-logo {
+  height: 26px;
+  width: auto;
+  max-width: 200px;
+  filter: brightness(0) invert(1);
+  opacity: 0.82;
+}
+.anon {
+  color: var(--text-mute);
+  font-size: 0.82rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+/* ---------- Mobile nav ---------- */
+.nav-toggle {
+  display: none;
+  background: transparent;
+  border: 1px solid var(--border-strong);
+  color: var(--text);
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+  align-items: center;
+  justify-content: center;
+  transition: border-color .15s ease, background .15s ease;
+}
+.nav-toggle:hover { background: rgba(163,235,177,0.06); border-color: rgba(163,235,177,0.3); }
+
+@media (max-width: 800px) {
+  .nav-toggle { display: inline-flex; }
+  .nav-links {
+    display: none;
+    position: absolute;
+    top: 64px;
+    left: 0;
+    right: 0;
+    flex-direction: column;
+    gap: 4px;
+    background: var(--bg);
+    border-bottom: 1px solid var(--border);
+    padding: 16px var(--gutter) 20px;
+    box-shadow: 0 24px 40px -20px rgba(0,0,0,0.6);
+  }
+  .nav-links.open { display: flex; }
+  .nav-links a {
+    padding: 12px 4px;
+    border-bottom: 1px solid var(--border);
+    font-size: 1rem;
+  }
+  .nav-links a:last-child { border-bottom: 0; }
+}
 .hero h1 {
   font-size: clamp(2.25rem, 5.6vw, 4.25rem);
   font-weight: 800;

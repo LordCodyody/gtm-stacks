@@ -23,7 +23,7 @@ Every piece of user-facing copy on the landing page, in page order. Edit here, t
 ## Header / Navigation
 
 - Brand wordmark: **GTM Stacks**
-- Nav links: Problem · What you get · Approach · Process · FAQ
+- Nav links: Problem · What you get · Approach · Voices · Process · FAQ
 - Header CTA button: **Book a call**
 
 ---
@@ -96,9 +96,9 @@ Every piece of user-facing copy on the landing page, in page order. Edit here, t
 
 **Cards:**
 
-1. **Early-stage startups** — 5–50 employees, post-funding or post-first-customer, ready to stop running on personal Gmail and shared docs.
-2. **Spinouts & carve-outs** — New independent businesses leaving a parent company's IT — with a hard date to be on their own infrastructure.
-3. **Remote-first SMBs** — Distributed teams without an internal IT function, where every laptop and login needs to work the same way everywhere.
+1. **Early-stage startups** — Post-funding or post-first-customer. You're closing the personal-Gmail-and-shared-Drive era before it bites you on the first audit.
+2. **Spinouts & carve-outs** — Leaving a parent company's IT with a hard date to be on your own infrastructure — no runway for tool bake-offs.
+3. **Remote-first SMBs** — Established teams without an internal IT function. Every new laptop needs to land in a consistent, secure state on day one — anywhere.
 
 **Footnote:** Not a fit: enterprises with established IT, or businesses looking for a single tool install. We deliver the whole foundation — scoped together.
 
@@ -133,6 +133,21 @@ Every piece of user-facing copy on the landing page, in page order. Edit here, t
 - Entity — Greenville IT Consulting LLC
 - Focus — Startups, spinouts, remote-first SMBs
 - Engagement — Fixed-scope, fixed-timeline
+
+---
+
+## Voices (`#voices`)
+
+- **Kicker:** In their words
+- **Heading:** Voices from the work.
+
+**Testimonials:**
+
+1. **From RightPath Benefits:**
+   > Cody provides exceptional service, insight and expertise. His attention to detail, ability to pivot, and knowledge of trends, threats, changes and challenges proved pivotal in security projects and strategies.
+
+2. **From a verified client (anonymous):**
+   > 1000% recommend. Cody & Greenville IT Consulting truly care about you & your success. Phenomenal service.
 
 ---
 

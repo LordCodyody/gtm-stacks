@@ -1,6 +1,22 @@
 // Set footer year
 document.getElementById('year').textContent = new Date().getFullYear();
 
+// Mobile nav toggle
+const navBtn = document.querySelector('.nav-toggle');
+const navList = document.getElementById('nav-links');
+if (navBtn && navList) {
+  navBtn.addEventListener('click', () => {
+    const open = navList.classList.toggle('open');
+    navBtn.setAttribute('aria-expanded', String(open));
+  });
+  navList.querySelectorAll('a').forEach(a => {
+    a.addEventListener('click', () => {
+      navList.classList.remove('open');
+      navBtn.setAttribute('aria-expanded', 'false');
+    });
+  });
+}
+
 // Active section highlighting in nav (subtle)
 const sections = document.querySelectorAll('main section[id]');
 const navLinks = document.querySelectorAll('.nav-links a');
