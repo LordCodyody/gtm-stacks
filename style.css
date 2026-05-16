@@ -227,6 +227,11 @@ ul { margin: 0; padding: 0; list-style: none; }
   border-radius: 999px;
   background: rgba(24,165,88,0.08);
   margin-bottom: 28px;
+  transition: border-color .15s ease, background .15s ease;
+}
+a.eyebrow:hover {
+  border-color: rgba(163,235,177,0.4);
+  background: rgba(24,165,88,0.14);
 }
 .hero h1 {
   font-size: clamp(2.25rem, 5.6vw, 4.25rem);
@@ -427,6 +432,20 @@ ul { margin: 0; padding: 0; list-style: none; }
 .about-facts li:last-child { border-bottom: 0; }
 .about-facts strong { color: var(--text); font-weight: 600; }
 .about-facts span { color: var(--text-dim); text-align: right; }
+
+.about-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  margin-top: 20px;
+  color: var(--green-100);
+  font-weight: 500;
+  font-size: 0.95rem;
+  border-bottom: 1px solid var(--border-strong);
+  padding-bottom: 2px;
+  transition: color .15s ease, border-color .15s ease;
+}
+.about-link:hover { color: #fff; border-color: var(--green-100); }
 
 @media (max-width: 800px) {
   .about { grid-template-columns: 1fr; }

@@ -10,6 +10,13 @@ Every piece of user-facing copy on the landing page, in page order. Edit here, t
 - **Meta description:** A connected, automated, secure tech stack — delivered on day one and built to scale into compliance without re-platforming later. For startups, spinouts, and remote-first teams.
 - **OG title:** GTM Stacks — A connected, secure tech stack from day one
 - **OG description:** Built to scale into compliance without re-platforming later. A fixed-scope foundation for startups, spinouts, and remote-first teams.
+- **OG URL:** https://lordcodyody.github.io/gtm-stacks/
+
+## Links used on the page
+
+- **Booking (all "Book a..." CTAs):** https://cal.com/codyjeziorski/30min
+- **LinkedIn:** https://www.linkedin.com/in/codyjeziorski/
+- **Parent business site:** https://www.greenvilleitconsulting.com
 
 ---
 
@@ -23,7 +30,7 @@ Every piece of user-facing copy on the landing page, in page order. Edit here, t
 
 ## Hero (`#top`)
 
-- **Eyebrow:** A Greenville IT Consulting product
+- **Eyebrow:** A Greenville IT Consulting product → *(links to greenvilleitconsulting.com)*
 - **Headline:** Your business tech stack — connected, automated, and secure from day one.
 - **Sub-headline:** Built to scale into compliance without re-platforming later.
 - **Primary CTA:** Book a discovery call →
@@ -115,11 +122,13 @@ Every piece of user-facing copy on the landing page, in page order. Edit here, t
 
 - **Kicker:** About the operator
 - **Heading:** Run by a CISSP who's done this work.
-- **Body paragraph:** GTM Stacks is the fixed-scope foundation engagement from **Greenville IT Consulting LLC**, based in Greenville, South Carolina. You work directly with a CISSP-credentialed operator who has deployed this stack across startups, spinouts, and remote-first businesses — the same person from discovery through handoff.
+- **Body paragraph:** GTM Stacks is the fixed-scope foundation engagement from **Greenville IT Consulting LLC**, based in Greenville, South Carolina. You work directly with **Cody Jeziorski** — a CISSP-credentialed operator who has deployed this stack across startups, spinouts, and remote-first businesses. The same person from discovery through handoff.
+- **Profile link:** View Cody on LinkedIn → *(linkedin.com/in/codyjeziorski)*
 
 **Side card facts:**
 
 - Badge: CISSP
+- Operator — Cody Jeziorski, CISSP
 - Based — Greenville, SC
 - Entity — Greenville IT Consulting LLC
 - Focus — Startups, spinouts, remote-first SMBs
@@ -158,8 +167,8 @@ Every piece of user-facing copy on the landing page, in page order. Edit here, t
 
 - **Heading:** Ready to deploy?
 - **Sub:** One discovery call. No commitment. We'll tell you honestly whether this is a fit.
-- **Primary button:** Book a discovery call →
-- **Fineprint:** Prefer email? Send a note instead.
+- **Primary button:** Book a discovery call → *(links to cal.com/codyjeziorski/30min)*
+- **Fineprint:** Or learn more about Greenville IT Consulting → *(links to greenvilleitconsulting.com)*
 
 ---
 
