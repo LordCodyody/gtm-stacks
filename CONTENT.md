@@ -76,9 +76,9 @@ Every piece of user-facing copy on the landing page, in page order. Edit here, t
 
 ---
 
-## What's in the stack (`#stack`)
+## The stack (`#stack`)
 
-- **Kicker:** What's in the stack
+- **Kicker:** The stack
 - **Heading:** Real products. Configured to act as one.
 - **Sub:** Most engagements start from this foundation. Substitutions where your business requires them; modifications from the defaults can weaken interconnection.
 
@@ -93,8 +93,6 @@ Every piece of user-facing copy on the landing page, in page order. Edit here, t
 - Zoho
 - Zapier
 - n8n
-
-**Caption below the wall:** Identity, devices, collaboration, and compliance on the Microsoft cloud (Entra, Intune, Outlook, Teams, OneDrive/SharePoint, Defender, Purview, Copilot). Security awareness on KnowBe4. CRM on HubSpot, Salesforce, Zoho, or self-hosted Twenty. Workflows on Zapier, n8n, or Power Automate.
 
 ---
 
