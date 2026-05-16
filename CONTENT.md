@@ -60,7 +60,7 @@ Every piece of user-facing copy on the landing page, in page order. Edit here, t
 ## What you get (`#outcome`)
 
 - **Kicker:** What you get
-- **Heading:** Outgrow your customers, not your stack.
+- **Heading:** A stack that grows with you, not the thing you outgrow.
 - **Sub:** One project delivers a foundation your business will run on for years. Designed end-to-end as a single, connected system.
 
 **Feature cards:**
@@ -169,13 +169,16 @@ Every piece of user-facing copy on the landing page, in page order. Edit here, t
 3. **What happens after deployment?**
    You own the stack. We hand off clean documentation and runbooks so your team (or any other provider) can operate it. Optional managed support is available if you'd rather not run it yourself.
 
-4. **Can we bring our own tools?**
+4. **What if we want to leave you later, or bring everything in-house?**
+   Everything we deploy lives in your tenants, your accounts, and your billing. The stack belongs to your business, not ours. You can keep operating it yourself, hire internal IT, or move to any provider you choose, using the documentation and runbooks we hand off.
+
+5. **Can we bring our own tools?**
    Sometimes. If you already have a CRM, email tenant, or device fleet, we'll evaluate fit during discovery. The strength of this approach is integration, so we'll be honest when a tool you already have doesn't belong in the final stack.
 
-5. **Do you support compliance frameworks like SOC 2, ISO 27001, or HIPAA?**
+6. **Do you support compliance frameworks like SOC 2, ISO 27001, or HIPAA?**
    Yes. The stack is architected to support common frameworks from day one. We build the technical foundation; the certification audit itself is conducted by a separate auditor we can recommend.
 
-6. **Are you a managed service provider?**
+7. **Are you a managed service provider?**
    No. We deliver a productized engagement with a clear start and end. Ongoing support is optional and scoped separately, not the business model.
 
 ---
