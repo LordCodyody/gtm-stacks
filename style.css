@@ -372,6 +372,13 @@ a.eyebrow:hover {
 }
 .feature-icon svg { width: 20px; height: 20px; }
 
+/* Center a lone trailing card in a 3-col grid (e.g. 7th of 7) */
+@media (min-width: 901px) {
+  .grid-features > .feature:last-child:nth-child(3n - 2) {
+    grid-column: 2;
+  }
+}
+
 /* ---------- Pillars ---------- */
 .pillars { gap: 24px; }
 .pillar {
