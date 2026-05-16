@@ -82,24 +82,9 @@ Every piece of user-facing copy on the landing page, in page order. Edit here, t
 - **Heading:** Pieces that stack into one system.
 - **Sub:** Real products configured to your business, your industry, and the tools your team already trusts.
 
-**Logo wall (white silhouettes on the dark theme):**
+**Logo wall (white silhouettes on the dark theme, intentionally jumbled so it reads as a toolset rather than a vendor-grouped list):**
 
-- Microsoft
-- Microsoft 365 (Office)
-- Microsoft Teams
-- Google
-- Gmail
-- Google Drive
-- Google Meet
-- KnowBe4
-- HubSpot
-- Salesforce
-- Zoho
-- Airtable
-- Zapier
-- n8n
-- Claude
-- ChatGPT (OpenAI)
+HubSpot · Microsoft Teams · Claude · Google Drive · Zapier · Salesforce · Microsoft · Gmail · n8n · Zoho · Google Meet · KnowBe4 · Airtable · ChatGPT · Google · Microsoft 365
 
 ---
 
