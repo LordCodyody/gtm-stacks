@@ -171,7 +171,7 @@ Every piece of user-facing copy on the landing page, in page order. Edit here, t
 4. **Can we bring our own tools?**
    Sometimes. If you already have a CRM, email tenant, or device fleet, we'll evaluate fit during discovery. The strength of this approach is integration — so we'll be honest when a tool you already have doesn't belong in the final stack.
 
-5. **Do you support compliance frameworks like SOC 2 or HIPAA?**
+5. **Do you support compliance frameworks like SOC 2, ISO 27001, or HIPAA?**
    Yes. The stack is architected to support common frameworks from day one. We build the technical foundation; the certification audit itself is conducted by a separate auditor we can recommend.
 
 6. **Are you a managed service provider?**
