@@ -182,7 +182,7 @@ ul { margin: 0; padding: 0; list-style: none; }
 .hero {
   position: relative;
   overflow: hidden;
-  padding-block: clamp(80px, 13vw, 160px) clamp(64px, 9vw, 120px);
+  padding-block: clamp(48px, 7vw, 92px) clamp(56px, 8vw, 104px);
   border-bottom: 1px solid var(--border);
 }
 .hero-bg {
@@ -282,44 +282,6 @@ a.eyebrow:hover {
   font-weight: 500;
 }
 
-/* ---------- Mobile nav ---------- */
-.nav-toggle {
-  display: none;
-  background: transparent;
-  border: 1px solid var(--border-strong);
-  color: var(--text);
-  padding: 8px;
-  border-radius: 8px;
-  cursor: pointer;
-  align-items: center;
-  justify-content: center;
-  transition: border-color .15s ease, background .15s ease;
-}
-.nav-toggle:hover { background: rgba(163,235,177,0.06); border-color: rgba(163,235,177,0.3); }
-
-@media (max-width: 800px) {
-  .nav-toggle { display: inline-flex; }
-  .nav-links {
-    display: none;
-    position: absolute;
-    top: 64px;
-    left: 0;
-    right: 0;
-    flex-direction: column;
-    gap: 4px;
-    background: var(--bg);
-    border-bottom: 1px solid var(--border);
-    padding: 16px var(--gutter) 20px;
-    box-shadow: 0 24px 40px -20px rgba(0,0,0,0.6);
-  }
-  .nav-links.open { display: flex; }
-  .nav-links a {
-    padding: 12px 4px;
-    border-bottom: 1px solid var(--border);
-    font-size: 1rem;
-  }
-  .nav-links a:last-child { border-bottom: 0; }
-}
 .hero h1 {
   font-size: clamp(2.25rem, 5.6vw, 4.25rem);
   font-weight: 800;
