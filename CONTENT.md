@@ -70,8 +70,9 @@ Every piece of user-facing copy on the landing page, in page order. Edit here, t
 3. **Secure email & collaboration** — Files, messaging, and meetings on a hardened foundation that doesn't get in your team's way.
 4. **Automation middleware** — Connect the systems that run your business — without brittle scripts or knowledge that lives in one person's head.
 5. **Security awareness training** — Continuous, role-aware training that keeps the human layer of your business ready.
-6. **CRM foundation** — A customer system that grows with you — from first deal to revenue operations.
-7. **Outbound lead generation** — Automated multi-channel outreach that puts your offer in front of the right buyers — without a full-time SDR.
+6. **Base security policies** — Acceptable use, access control, and incident response — drafted from the controls and systems we deploy, not generic templates.
+7. **CRM foundation** — A customer system that grows with you — from first deal to revenue operations.
+8. **Outbound lead generation** — Automated multi-channel outreach that puts your offer in front of the right buyers — without a full-time SDR.
 
 ---
 
