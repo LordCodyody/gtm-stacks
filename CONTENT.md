@@ -78,9 +78,9 @@ Every piece of user-facing copy on the landing page, in page order. Edit here, t
 
 ## The stack (`#stack`)
 
-- **Kicker:** The stack
-- **Heading:** Real products. Configured to act as one.
-- **Sub:** The platforms we know inside and out. The exact mix depends on your business, your industry, and the tools your team already trusts.
+- **Kicker:** Building blocks
+- **Heading:** Pieces that stack into one system.
+- **Sub:** Real products configured to your business, your industry, and the tools your team already trusts.
 
 **Logo wall (white silhouettes on the dark theme):**
 
@@ -98,6 +98,8 @@ Every piece of user-facing copy on the landing page, in page order. Edit here, t
 - Airtable
 - Zapier
 - n8n
+- Claude
+- ChatGPT (OpenAI)
 
 ---
 
