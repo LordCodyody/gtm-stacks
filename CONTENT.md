@@ -84,7 +84,7 @@ Every piece of user-facing copy on the landing page, in page order. Edit here, t
 
 **Logo wall (white silhouettes on the dark theme, intentionally jumbled so it reads as a toolset rather than a vendor-grouped list):**
 
-Claude · Microsoft Teams · Zapier · HubSpot · Canva · Google Drive · Salesforce · n8n · DocuSign · Microsoft · Zoho · Gmail · ChatGPT · Airtable · Google Meet · KnowBe4 · PandaDoc · Google · Microsoft 365
+Claude · Microsoft Teams · Zapier · HubSpot · Canva · Mailchimp · Google Drive · Salesforce · n8n · DocuSign · Microsoft · Zoho · Gmail · ChatGPT · Airtable · SendGrid · Google Meet · KnowBe4 · PandaDoc · Google · Microsoft 365
 
 ---
 
