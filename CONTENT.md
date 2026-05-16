@@ -68,7 +68,7 @@ Every piece of user-facing copy on the landing page, in page order. Edit here, t
 1. **Unified identity** — One sign-on, one source of truth for who works at your company and what they can reach.
 2. **Managed devices** — Every laptop secure, compliant, and recoverable from the moment it ships to a new hire.
 3. **Secure email & collaboration** — Files, messaging, and meetings on a hardened foundation that doesn't get in your team's way.
-4. **Connected workflows** — Your systems federated to pour into each other natively — and into the AI tools your team uses — without a bolt-on middleware layer.
+4. **Connected workflows** — Your systems federated to pour into each other — and into the AI tools your team uses — so data and decisions flow end-to-end.
 5. **Security awareness training** — Continuous, role-aware training that keeps the human layer of your business ready.
 6. **Base security policies** — A policy set written from the controls and systems we deploy — sized to your compliance scope, not pulled off a generic template shelf.
 7. **CRM foundation** — A customer system that grows with you — from first deal to revenue operations.
