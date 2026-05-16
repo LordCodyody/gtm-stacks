@@ -1,0 +1,171 @@
+# Site Copy — GTM Stacks
+
+Every piece of user-facing copy on the landing page, in page order. Edit here, then mirror into `index.html`. Section IDs match the HTML.
+
+---
+
+## Meta
+
+- **Page title:** GTM Stacks — A connected, secure tech stack from day one
+- **Meta description:** GTM Stacks delivers a connected, automated, secure tech stack on day one — productized for startups, spinouts, and remote-first businesses that plan to scale.
+- **OG title:** GTM Stacks — A connected, secure tech stack from day one
+- **OG description:** Built to scale into compliance without re-platforming later. Productized engagements for startups and spinouts.
+
+---
+
+## Header / Navigation
+
+- Brand wordmark: **GTM Stacks**
+- Nav links: Problem · What you get · Approach · Process · FAQ
+- Header CTA button: **Book a call**
+
+---
+
+## Hero (`#top`)
+
+- **Eyebrow:** A Greenville IT Consulting product
+- **Headline:** Your business tech stack — connected, automated, and secure from day one.
+- **Sub-headline:** Built to scale into compliance without re-platforming later. A productized engagement for startups, spinouts, and remote-first businesses that plan to grow.
+- **Primary CTA:** Book a discovery call →
+- **Secondary CTA:** See what you get
+- **Trust strip:**
+  - Deployed across multiple businesses
+  - CISSP-led
+  - Greenville, SC
+
+---
+
+## The problem (`#problem`)
+
+- **Kicker:** The problem
+- **Heading:** The 18-month rebuild trap.
+- **Sub:** Startups and spinouts cobble together SaaS tools as they grow. By the time the first audit or enterprise customer shows up, the stack is held together with shared logins, brittle scripts, and good intentions.
+
+**Cards:**
+
+1. **Security gaps** — Shared passwords, inconsistent MFA, and unmanaged laptops — risks that scale faster than the business does.
+2. **Integration debt** — Tools picked one-at-a-time stop talking to each other. Data gets re-keyed. Reports stop matching.
+3. **Compliance friction** — The first SOC 2 or HIPAA conversation reveals controls that should have been there from the start.
+4. **Re-platform tax** — You outgrow the stack and rip it out — paying twice for the same foundation, eighteen months too late.
+
+---
+
+## What you get (`#outcome`)
+
+- **Kicker:** What you get
+- **Heading:** Outgrow your customers, not your stack.
+- **Sub:** One engagement delivers the foundation your business will run on for years — designed as a single, connected system.
+
+**Feature cards:**
+
+1. **Unified identity** — One sign-on, one source of truth for who works at your company — and what they can reach.
+2. **Managed devices** — Every laptop secure, compliant, and recoverable from the moment it ships to a new hire.
+3. **Secure email & collaboration** — Files, messaging, and meetings on a hardened foundation your team will actually use.
+4. **Automation middleware** — Connect the systems that run your business — without brittle scripts or single-engineer knowledge.
+5. **Security awareness training** — Continuous, role-aware training that keeps the human layer of your business ready.
+6. **CRM foundation** — A customer system that grows with you — from first deal to revenue operations.
+
+---
+
+## Why this approach (`#approach`)
+
+- **Kicker:** Why this approach
+- **Heading:** A system, not a shopping list.
+- **Sub:** Most IT projects deliver a pile of tools. We deliver a working business stack — designed end-to-end before anything gets configured.
+
+**Pillars:**
+
+1. **Interconnected by design** — Identity, devices, collaboration, and automation are scoped together. Nothing is bolted on after the fact.
+2. **Automated where it matters** — Onboarding, offboarding, and the workflows that move money happen without anyone remembering to run them.
+3. **Secure by default** — The configuration baseline maps to recognized security frameworks — not optional hardening you'll add later.
+4. **Compliance-ready when you need it** — When SOC 2, HIPAA, or an enterprise security questionnaire shows up, the controls already exist.
+
+---
+
+## Who it's for (`#who`)
+
+- **Kicker:** Who it's for
+- **Heading:** Built for businesses that plan to scale.
+
+**Cards:**
+
+1. **Early-stage startups** — 5–50 employees, post-funding or post-first-customer, ready to stop running on personal Gmail and shared docs.
+2. **Spinouts & carve-outs** — New independent businesses leaving a parent company's IT — with a hard date to be on their own infrastructure.
+3. **Remote-first SMBs** — Distributed teams without an internal IT function, where every laptop and login needs to work the same way everywhere.
+
+**Footnote:** Not a fit: enterprises with established IT, or businesses looking for a one-off tool install. This is a foundation engagement.
+
+---
+
+## Process (`#process`)
+
+- **Kicker:** Process
+- **Heading:** Four steps. Weeks, not quarters.
+
+**Steps:**
+
+1. **Discovery** — We learn your business, your team, your trajectory, and the compliance horizon you're heading toward.
+2. **Design** — We architect a stack scoped to your size and industry. You approve the plan before anything is touched.
+3. **Deploy** — We deliver the full stack as one connected system — configured, documented, and tested end-to-end.
+4. **Handoff & optional support** — Documentation, training, and runbooks. Ongoing managed support is available, never required.
+
+---
+
+## About the operator (`#about`)
+
+- **Kicker:** About the operator
+- **Heading:** Run by a CISSP who's done this work.
+- **Body paragraph 1:** GTM Stacks is a productized vertical of **Greenville IT Consulting LLC**, based in Greenville, South Carolina. The engagement is delivered by a single CISSP-credentialed operator with hands-on implementation experience across multiple startups and spinouts.
+- **Body paragraph 2:** No outsourced delivery team, no hand-off to junior consultants — the person who scopes the work is the person who builds it.
+
+**Side card facts:**
+
+- Badge: CISSP
+- Based — Greenville, SC
+- Entity — Greenville IT Consulting LLC
+- Focus — Startups, spinouts, remote-first SMBs
+- Engagement — Productized, fixed-scope
+
+---
+
+## FAQ (`#faq`)
+
+- **Kicker:** FAQ
+- **Heading:** Questions worth answering up front.
+
+**Q&A:**
+
+1. **How long does a deployment take?**
+   Most engagements run three to six weeks from discovery to handoff, depending on team size, existing tools, and compliance requirements. We commit to a timeline after discovery, not before.
+
+2. **What does it cost?**
+   Engagements start in the low five figures. The final number depends on team size, scope, and whether you need ongoing support. We scope and price after discovery so you only pay for what your business actually needs.
+
+3. **What happens after deployment?**
+   You own the stack. We hand off clean documentation and runbooks so your team — or any other provider — can operate it. Optional managed support is available if you'd rather not run it yourself.
+
+4. **Can we bring our own tools?**
+   Sometimes. If you already have a CRM, email tenant, or device fleet we'll evaluate fit during discovery. The strength of this approach is integration, so we'll be honest when a tool you already have doesn't belong in the final stack.
+
+5. **Do you support compliance frameworks like SOC 2 or HIPAA?**
+   Yes. The stack is architected to support common frameworks from day one. We build the technical foundation; the certification audit itself is conducted by a separate auditor we can recommend.
+
+6. **Are you a managed service provider?**
+   No. We deliver a productized engagement with a clear start and end. Ongoing support is optional and scoped separately — not the business model.
+
+---
+
+## Final CTA (`#contact`)
+
+- **Heading:** Ready to deploy?
+- **Sub:** One discovery call. No commitment. We'll tell you honestly whether this is a fit.
+- **Primary button:** Book a discovery call →
+- **Fineprint:** Prefer email? Send a note instead.
+
+---
+
+## Footer
+
+- Wordmark: **GTM Stacks**
+- Copyright: © {year} Greenville IT Consulting LLC. All rights reserved.
+- Footer links: Problem · What you get · Process · FAQ · Contact
