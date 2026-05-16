@@ -115,8 +115,7 @@ Every piece of user-facing copy on the landing page, in page order. Edit here, t
 
 - **Kicker:** About the operator
 - **Heading:** Run by a CISSP who's done this work.
-- **Body paragraph 1:** GTM Stacks is the fixed-scope foundation engagement from **Greenville IT Consulting LLC**, based in Greenville, South Carolina. Every project is delivered by a single CISSP-credentialed operator with hands-on implementation experience across startups, spinouts, and remote-first businesses.
-- **Body paragraph 2:** No outsourced delivery team. No hand-off to junior consultants. The person who scopes the work is the person who builds it.
+- **Body paragraph:** GTM Stacks is the fixed-scope foundation engagement from **Greenville IT Consulting LLC**, based in Greenville, South Carolina. You work directly with a CISSP-credentialed operator who has deployed this stack across startups, spinouts, and remote-first businesses — the same person from discovery through handoff.
 
 **Side card facts:**
 
@@ -136,7 +135,7 @@ Every piece of user-facing copy on the landing page, in page order. Edit here, t
 **Q&A:**
 
 1. **How long does a deployment take?**
-   Most engagements run three to six weeks from discovery to handoff, depending on team size, existing tools, and compliance requirements. We commit to a timeline after discovery, not before.
+   Most engagements run four to ten weeks from discovery to handoff, depending on team size, existing tools, and compliance scope. Smaller startups can wrap in under a month; larger spinouts with regulated requirements take longer. We commit to a timeline after discovery, not before.
 
 2. **What does it cost?**
    Engagements start in the low five figures. The final number depends on team size, scope, and whether you want ongoing support. We scope and price after discovery so you only pay for what your business needs.
