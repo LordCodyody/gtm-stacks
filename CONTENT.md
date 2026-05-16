@@ -80,17 +80,22 @@ Every piece of user-facing copy on the landing page, in page order. Edit here, t
 
 - **Kicker:** The stack
 - **Heading:** Real products. Configured to act as one.
-- **Sub:** Most engagements start from this foundation. Substitutions where your business requires them; modifications from the defaults can weaken interconnection.
+- **Sub:** The platforms we know inside and out. The exact mix depends on your business, your industry, and the tools your team already trusts.
 
 **Logo wall (white silhouettes on the dark theme):**
 
 - Microsoft
 - Microsoft 365 (Office)
 - Microsoft Teams
+- Google
+- Gmail
+- Google Drive
+- Google Meet
 - KnowBe4
 - HubSpot
 - Salesforce
 - Zoho
+- Airtable
 - Zapier
 - n8n
 
